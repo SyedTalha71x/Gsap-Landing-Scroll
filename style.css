@@ -9,6 +9,8 @@ html,
 body {
     height: 100%;
     width: 100%;
+    background-color: black;
+    color: white;
 }
 
 #main {
@@ -20,28 +22,33 @@ body {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    /* background-color: #f1f1f1; */
+    background-color: black;
+    color: rgb(180, 140, 39);
 }
 
 #page1 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: black;
+    color: rgb(180, 140, 39);
 }
 
 #page2 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: black;
+    color: rgb(180, 140, 39);
 }
 
 #page3 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: black;
+    color: rgb(180, 140, 39);
 }
 
 canvas {
